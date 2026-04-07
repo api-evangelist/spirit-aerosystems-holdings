@@ -1,7 +1,11 @@
 aid: spirit-aerosystems-holdings
-url: https://raw.githubusercontent.com/api-evangelist/spirit-aerosystems-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/spirit-aerosystems-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.spirit-aerosystems-holdings.com
+description: >-
+  Spirit AeroSystems is one of the world's largest manufacturers of aerostructures
+  for commercial airplanes, defense platforms, and business and regional jets.
