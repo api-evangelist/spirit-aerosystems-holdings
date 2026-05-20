@@ -20,6 +20,8 @@ tags:
   - Manufacturing
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/spiritaero
   - type: Website
     url: https://www.spiritaero.com
   - type: News
