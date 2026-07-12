@@ -21,6 +21,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/spirit-aerosystems-holdings-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/spiritaero
   - type: Website
@@ -33,6 +35,8 @@ common:
     url: https://www.spiritaero.com/careers/
   - type: Suppliers
     url: https://www.spiritaero.com/supply-chain/
+  - url: https://www.spiritaero.com/news/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
