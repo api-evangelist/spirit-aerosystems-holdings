@@ -1,4 +1,16 @@
 aid: spirit-aerosystems-holdings
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/spirit-aerosystems-holdings.png
 name: Spirit AeroSystems Holdings
 description: >-
   Spirit AeroSystems Holdings is one of the world's largest manufacturers of
