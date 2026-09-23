@@ -1,7 +1,9 @@
 ---
 title: Spirit AeroSystems, Boeing Reach Agreement to Support ...
 url: https://www.prnewswire.com/news-releases/spirit-aerosystems-boeing-reach-agreement-to-support-production-stability-301960470.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Spirit AeroSystems Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google
